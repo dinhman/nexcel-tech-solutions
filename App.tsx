@@ -239,7 +239,7 @@ const App: React.FC = () => {
               Giải pháp toàn diện
             </div>
             <h2 className="text-4xl md:text-6xl font-extrabold text-white leading-tight">
-              Khai phóng tiềm năng <br /> bằng <span className="gradient-text">Công nghệ số</span>
+              Tối ưu quy trình bằng <br /><span className="gradient-text">Hệ sinh thái n8n & Low-code</span>
             </h2>
             <p className="text-slate-400 text-lg leading-relaxed font-medium">
               Chúng tôi tập trung vào 4 trụ cột cốt lõi giúp doanh nghiệp của bạn vận hành thông minh hơn, nhanh hơn và hiệu quả hơn.
